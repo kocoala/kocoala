@@ -1,6 +1,10 @@
 <div align="center">
 :sparkling_heart: NamHyoJeong
-:mailbox_with_mail: kocoala <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+  
+:mailbox_with_mail: kocoala 
+<a href="mailto:koala.ohgiraffers@gmail.com">
+   <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=koala.ohgiraffers@gmail.com"/>
+</a>
 </div>
 
 <hr>
